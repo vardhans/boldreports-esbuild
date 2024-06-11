@@ -1,6 +1,5 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
- import './../globals';
 import { BoldReportViewerModule } from '@boldreports/angular-reporting-components';
 import { AppComponent } from './app.component';
 // Report viewer
