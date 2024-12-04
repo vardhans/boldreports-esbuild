@@ -39,7 +39,7 @@
               "src/styles.css",
               "./node_modules/@boldreports/javascript-reporting-controls/Content/v2.0/tailwind-light/bold.report-viewer.min.css"
             ],
-            "scripts": [],
+            "scripts": ["./node_modules/jquery/dist/jquery.js"],
             "browser": "src/main.ts"
           },
           "configurations": {
